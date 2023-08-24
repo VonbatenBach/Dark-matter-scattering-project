@@ -1,1 +1,1 @@
-# Dark-matter-scattering-project
+# Dark matter scattering project
